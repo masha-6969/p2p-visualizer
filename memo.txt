@@ -1,0 +1,12 @@
+p2p-visualizer/
+├── public/
+│   └── index.html
+├── src/
+│   ├── App.jsx             ← ここに可視化コードを記述
+│   ├── main.jsx
+│   ├── components/
+│   │   └── ui/             ← shadcn/ui コンポーネント
+│   └── index.css
+├── package.json
+├── vite.config.js
+└── tailwind.config.js
